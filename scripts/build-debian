@@ -61,7 +61,10 @@ net-tools,\
 systemd-sysv,\
 u-boot-tools,\
 initramfs-tools,\
-openssh-server \
+openssh-server, \
+iw, \
+firmware-brcm80211, \
+wpasupplicant \
   "${DIST}" \
   debian \
   "${URL}" \
